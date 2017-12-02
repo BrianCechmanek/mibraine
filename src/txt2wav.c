@@ -6,7 +6,7 @@
 // Created as part of a TOM:CSC program, 
 // LICENSE 
 // TODO
-// GPL!
+// GPL//https://www.gnu.org/licenses/licenses.en.html
 
 // usage: > ./txt2wav -flags [...] infile.txt outfile(s).wav
 
