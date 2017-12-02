@@ -1,6 +1,6 @@
 // turns an OpenBCI .txt reading to a useable .wav for signal processing
 //
-//
+// Wheeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 //
 // Authors: Brian Cechmanek, Iain Barkley, Sebastian Bernier
 // Created as part of a TOM:CSC program, 
@@ -12,7 +12,6 @@
 
 
 // Requirements
-
 
 // parse .txt
 
